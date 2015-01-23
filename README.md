@@ -1,4 +1,4 @@
 # install
 os install & setup scripts
 
-	curl -L http://raw.github.com/tstangenberg/install/prepare.sh | sudo sh
+	curl -L https://raw.github.com/tstangenberg/install/master/prepare.sh | sudo sh
